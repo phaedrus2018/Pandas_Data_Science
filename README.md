@@ -1,2 +1,3 @@
 # Pandas_Data_Science
-This repository consists jupyter notebooks with pandas operations which were depicted in the Stepup Analytics Video Series
+This repository consists jupyter notebooks with pandas operations which were depicted in the Stepup Analytics Data Science
+Youtube Video Series
