@@ -2,8 +2,6 @@
 This repository consists jupyter notebooks with pandas operations which were depicted in the Stepup Analytics Data Science
 Youtube Video Series
 
-To find Stepup Analytics on social media.
-
 Subscribe to our YouTube Channel- https://www.youtube.com/channel/UCnPFbCELnraHSDFS8SI2vDA?sub_confirmation=1
 
 Website- https://stepupanalytics.com/
